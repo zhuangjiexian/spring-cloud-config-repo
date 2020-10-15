@@ -1,2 +1,3 @@
 spring:
-  uname: test1
+  profiles:
+    active: test
